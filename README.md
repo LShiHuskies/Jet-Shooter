@@ -23,3 +23,14 @@ A user can create a new account and log in. If a user does not create an account
 6. Navigate to http://localhost:4000/ and this will be the backend's database server.
 7. Run npm start and you should be prompted to http://localhost:3000/
 8. For a quick demo, simply click submit and the game will start.
+
+# ScreenShots of Game In Action
+<div display="inline">
+<img width="425" alt="screen shot 2018-08-13 at 6 10 25 pm" src="https://user-images.githubusercontent.com/34640293/44060951-66024cde-9f24-11e8-8ff2-e7b2f2abfbd4.png">
+
+<img width="1680" alt="screen shot 2018-08-13 at 6 07 58 pm" src="https://user-images.githubusercontent.com/34640293/44060982-877e669a-9f24-11e8-8053-4bc2bf23739a.png">
+</div>
+
+# Credits
+
+This project was inspired by Asteroids
