@@ -1,6 +1,6 @@
 # SpaceShip-Shooter App
 
-<img width="400" alt="screen shot 2018-08-13 at 5 56 23 pm" src="https://user-images.githubusercontent.com/34640293/44060354-6e414c1c-9f22-11e8-920e-be936ccb9599.png">
+<img width="500" alt="screen shot 2018-08-13 at 5 56 23 pm" src="https://user-images.githubusercontent.com/34640293/44060354-6e414c1c-9f22-11e8-920e-be936ccb9599.png">
 
 A single player SpaceShip Traveler that shoots down planets for active gamer enthusiasts inspired by Asteroids.
 
@@ -10,6 +10,8 @@ As the game goes on and your score increases, the difficulty goes up as the plan
 The controls of the game are ASWD as A is to go left, S is to go down, D is to go right and W is to go up. The arrow keys determine the direction you are looking at which determines which direction you are going to fire which is the enter key.
 
 A user can create a new account and log in. If a user does not create an account and sign in, he or she can elect to simply click submit and the game will simply start, however his or her high scores will not be registered.
+
+<img width="500" alt="screen shot 2018-08-13 at 6 02 05 pm" src="https://user-images.githubusercontent.com/34640293/44060577-19a2845e-9f23-11e8-861a-d3fc887fb7f4.png">
 
 # Direction on how to run and start the program
 
