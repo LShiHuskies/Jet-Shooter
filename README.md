@@ -28,7 +28,7 @@ A user can create a new account and log in. If a user does not create an account
 <div display="inline">
 <img width="425" alt="screen shot 2018-08-13 at 6 10 25 pm" src="https://user-images.githubusercontent.com/34640293/44060951-66024cde-9f24-11e8-8ff2-e7b2f2abfbd4.png">
 
-<img width="1680" alt="screen shot 2018-08-13 at 6 07 58 pm" src="https://user-images.githubusercontent.com/34640293/44060982-877e669a-9f24-11e8-8053-4bc2bf23739a.png">
+<img width="425" alt="screen shot 2018-08-13 at 6 07 58 pm" src="https://user-images.githubusercontent.com/34640293/44060982-877e669a-9f24-11e8-8053-4bc2bf23739a.png">
 </div>
 
 # Credits
