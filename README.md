@@ -1,5 +1,7 @@
 # SpaceShip-Shooter App
 
+<img width="400" alt="screen shot 2018-08-13 at 5 56 23 pm" src="https://user-images.githubusercontent.com/34640293/44060354-6e414c1c-9f22-11e8-920e-be936ccb9599.png">
+
 A single player SpaceShip Traveler that shoots down planets for active gamer enthusiasts inspired by Asteroids.
 
 The objective of this game is stay alive as long as you can and get the highest score you can get. Each time you shoot a large planet, you score 200 points and the planet shrinks in size and if you shoot it again, it will disappear and you score an additional 100 points.
