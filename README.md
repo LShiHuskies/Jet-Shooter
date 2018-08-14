@@ -23,6 +23,7 @@ A user can create a new account and log in. If a user does not create an account
 6. Navigate to http://localhost:4000/ and this will be the backend's database server.
 7. Run npm start and you should be prompted to http://localhost:3000/
 8. For a quick demo, simply click submit and the game will start.
+9. For a quick tutorial of [SpaceShip Shooter App](https://youtu.be/Mn6nAQIv57g)
 
 # ScreenShots of Game In Action
 <div display="inline">
